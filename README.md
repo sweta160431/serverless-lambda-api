@@ -114,11 +114,17 @@ curl https://<API_ID>.execute-api.<REGION>.amazonaws.com/dev/myresource
 
 ## 🎯 Summary of the Process
 1️⃣ Write the function (`handler.py`).
+
 2️⃣ Package it into a ZIP file.
+
 3️⃣ Upload to AWS Lambda using AWS CLI.
+
 4️⃣ Create API Gateway to expose it as an HTTP endpoint.
+
 5️⃣ Deploy API Gateway and link it to Lambda.
+
 6️⃣ Allow API Gateway to call Lambda (IAM permissions).
+
 7️⃣ Get API endpoint and test it.
 
 Your serverless API is now live and scales automatically! 🚀
