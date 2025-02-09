@@ -111,6 +111,9 @@ curl https://<API_ID>.execute-api.<REGION>.amazonaws.com/dev/myresource
 
 ![Screenshot (48)](https://github.com/user-attachments/assets/25e39f5c-687c-4a9a-9ad3-5a9d6a28a4c0)
 
+![Screenshot (51)](https://github.com/user-attachments/assets/2fd33668-d4c0-4f86-b3db-be3c688f290d)
+
+![Screenshot (52)](https://github.com/user-attachments/assets/6b3d9016-1d7a-4325-af01-1be525b16c3d)
 
 ## 🎯 Summary of the Process
 1️⃣ Write the function (`handler.py`).
